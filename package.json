@@ -1,0 +1,12 @@
+{
+  "name": "levanter-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp LevanterMD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "baileys": "^4.4.0"
+  }
+}
